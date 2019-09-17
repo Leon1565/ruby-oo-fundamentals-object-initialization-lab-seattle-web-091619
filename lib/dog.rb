@@ -5,4 +5,3 @@ class Dog
 end
 
 brownie = Dog.new
-brownie.name
